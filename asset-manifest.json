@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hgh23/VladScienceWeb.git%20/static/css/main.6cf48c11.css",
+    "main.js": "/hgh23/VladScienceWeb.git%20/static/js/main.46c80e26.js",
+    "static/js/453.b3faef14.chunk.js": "/hgh23/VladScienceWeb.git%20/static/js/453.b3faef14.chunk.js",
+    "static/media/logo_sub.png": "/hgh23/VladScienceWeb.git%20/static/media/logo_sub.ac8a0d4f8fa1b0c37a0b.png",
+    "static/media/helvetica-neu.ttf": "/hgh23/VladScienceWeb.git%20/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/hgh23/VladScienceWeb.git%20/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/hgh23/VladScienceWeb.git%20/static/media/logo-s.a891461296161e5ff174.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/hgh23/VladScienceWeb.git%20/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/hgh23/VladScienceWeb.git%20/index.html",
+    "main.6cf48c11.css.map": "/hgh23/VladScienceWeb.git%20/static/css/main.6cf48c11.css.map",
+    "main.46c80e26.js.map": "/hgh23/VladScienceWeb.git%20/static/js/main.46c80e26.js.map",
+    "453.b3faef14.chunk.js.map": "/hgh23/VladScienceWeb.git%20/static/js/453.b3faef14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cf48c11.css",
+    "static/js/main.46c80e26.js"
+  ]
+}
